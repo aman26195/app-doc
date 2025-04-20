@@ -2,4 +2,8 @@ hello aman how are you this is file Bs
 
 public StudentDto(Student s)
 {
+private Map<String,object>cache=new HashMap<String,Object>()
+}
+public void loaddatatocache(){
+//logic
 }
