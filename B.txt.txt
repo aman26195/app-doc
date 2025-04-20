@@ -4,3 +4,10 @@ public StudentDto(Student s)
 {
 return a+b;
 }
+private Map<String,object>cache=new HashMap<String,Object>()
+public void loaddatatocache(){
+//logic
+
+return a+b;
+
+}
