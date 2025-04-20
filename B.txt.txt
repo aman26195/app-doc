@@ -1,1 +1,5 @@
 hello aman how are you this is file Bs
+
+public StudentDto(Student s)
+{
+}
